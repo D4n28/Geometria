@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_q1" android:title="Generar puntos Primer Cuadrante"/>
+    <item android:id="@+id/menu_q2" android:title="Generar puntos Segundo Cuadrante"/>
+    <item android:id="@+id/menu_q3" android:title="Generar puntos Tercer Cuadrante"/>
+    <item android:id="@+id/menu_q4" android:title="Generar puntos Cuarto Cuadrante"/>
+</menu>

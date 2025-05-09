@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Geometria</string>
+    <string name="pendiente">Calcular Pendiente</string>
+    <string name="puntoMedio">Calcular Punto Medio</string>
+    <string name="ecuacion">Ecuacion Linea Recta</string>
+    <string name="cuadrantes">Cuadrantes</string>
+    <string name="resultado">Resultado</string>
+</resources>
